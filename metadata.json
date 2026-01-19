@@ -1,0 +1,7 @@
+{
+  "name": "VANHAI EDUCATION - Luyện Đề Trực Tuyến",
+  "description": "Nền tảng luyện thi THPT hiện đại tích hợp AI giúp học sinh học đúng trọng tâm và tự tin chinh phục kỳ thi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
